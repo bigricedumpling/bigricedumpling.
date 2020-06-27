@@ -1,7 +1,7 @@
 title: ILLUSION
 owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+url: "https://bigricedumpling.github.io"
+baseurl: "/bigricedumpling"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,7 +10,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "akiritsu@outlook.com"
-github: "akiritsu/pRoJEct-NeGYa"
+github: "bigricedumpling"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
