@@ -10,7 +10,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "akiritsu@outlook.com"
-github: "bigricedumpling"
+github: "bigricedumpling/bigricedumpling"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
