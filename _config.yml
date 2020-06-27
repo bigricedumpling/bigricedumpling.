@@ -1,5 +1,6 @@
-title: ILLUSION
-owner: "Zang""
+## Settings
+title: pRoJEct-NeGYa
+owner: "DeerRIDER"
 url: "https://akiritsu.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
@@ -10,7 +11,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "akiritsu@outlook.com"
-github: "bigricedumpling/bigricedumpling"
+github: "akiritsu/pRoJEct-NeGYa"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
