@@ -1,3 +1,4 @@
+### :)
 ---
 layout: default
 post_list: "date"
