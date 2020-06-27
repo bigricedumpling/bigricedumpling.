@@ -5,7 +5,7 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
+title: ":)"
 author: ""
 encrypted_text: true
 permalink: /
@@ -13,7 +13,7 @@ permalink: /
 
 #  ILLUSORY THEATRE OF THE EVERYDAY - 장수청 
 
-##  Features
+##  DIARYIES
 * 1
 * 2
 * 3
