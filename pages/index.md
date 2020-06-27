@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# 장수청 - ILLUSORY THEATRE OF THE EVERYDAY
+#  ILLUSORY THEATRE OF THE EVERYDAY - 장수청 
 
 ##  Features
 * 1
