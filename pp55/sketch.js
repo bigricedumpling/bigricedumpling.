@@ -32,8 +32,3 @@ function draw() {
   
 }
 
-function mousePressed() {
-	fill(255,0,0)
-	textSize(50)
-	text("What then... and will time matter",windowWidth/2-300, windowHeight/2+200)
-}
